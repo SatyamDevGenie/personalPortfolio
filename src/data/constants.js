@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/satyamsawant54/Satyam-Readme",
   resume:
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    "https://drive.google.com/file/d/1OGkByj-uD3B_9jmeBG-MjYfnggHIDxA0/view?usp=sharing",
+    "https://drive.google.com/file/d/1T1B2yO11Z3r1Dauf5IskSkYKGhGz1DQ0/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/satyam-sawant-a257802a7/",
 };
 
@@ -173,7 +173,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend End Developer",
     company: "Hi-Technic Systems and Services",
-    date: "Feb 2023 - March 24",
+    date: "Feb 2023 - March 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Javascript.",
     skills: [
       "ReactJS",

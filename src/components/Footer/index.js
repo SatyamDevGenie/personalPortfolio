@@ -76,16 +76,17 @@ const SocialMediaIcon = styled.a`
 
 const Copyright = styled.p`
   margin-top: 1.5rem;
-  font-size: 0.9rem;
-  color: ${({ theme }) => theme.soft2};
+  font-size: 1.1rem;
+  color: whitesmoke;
   text-align: center;
+  font-weight: bold;
 `;
 
 function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Satyam Sawant</Logo>
+        <Logo>Feel Free To Talk</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -102,7 +103,8 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; Feel Free to Talk || satyamsawant54@gmail.com || +91 9326903988
+          satyamsawant54@gmail.com <br /> <br />
+          +91 9326903988
         </Copyright>
       </FooterWrapper>
     </FooterContainer>

@@ -1,7 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import { Bio } from "../../data/constants";
-import ProfileImg from "../../images/profile.jpg";
+import ProfileImg from "../../images/satyam.png";
 import HeroBgAnimation from "../HeroBgAnimation";
 import {
   HeroBg,
