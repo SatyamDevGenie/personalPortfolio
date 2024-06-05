@@ -64,20 +64,17 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "machine learning" ? (
+          {toggle === "other" ? (
             <ToggleButton
               active
-              value="machine learning"
-              onClick={() => setToggle("machine learning")}
+              value="other"
+              onClick={() => setToggle("other")}
             >
-              MACHINE LEARNING
+              Other Technology
             </ToggleButton>
           ) : (
-            <ToggleButton
-              value="machine learning"
-              onClick={() => setToggle("machine learning")}
-            >
-              MACHINE LEARNING
+            <ToggleButton value="other" onClick={() => setToggle("other")}>
+              Other Technology
             </ToggleButton>
           )}
         </ToggleButtonGroup>
@@ -91,7 +88,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               />
             ))}
           {projects
-            .filter((item) => item.category == toggle)
+            .filter((item) => item.category === toggle)
             .map((project) => (
               <ProjectCard
                 project={project}
