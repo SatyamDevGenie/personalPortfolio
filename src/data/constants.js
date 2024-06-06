@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/satyamsawant54/Satyam-Readme",
   resume:
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    "https://drive.google.com/file/d/1T1B2yO11Z3r1Dauf5IskSkYKGhGz1DQ0/view?usp=sharing",
+    "https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/satyam-sawant-a257802a7/",
 };
 
@@ -173,7 +173,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend End Developer",
     company: "Hi-Technic Systems and Services",
-    date: "Feb 2023 - March 2024",
+    date: "August 2023 - May 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Javascript.",
     skills: [
       "ReactJS",
@@ -189,10 +189,10 @@ export const experiences = [
   {
     id: 1,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Freelancing ",
-    company: "Working for Clients",
-    date: "June 2022 - Present",
-    desc: "Built an basic websites for my clients according to their requirements",
+    role: "Full Stack Training",
+    company: "Rst Forum",
+    date: "Feb 2023 - June 2023",
+    desc: "Full Stack Training, where i build and work on ecommerce application. The entire web application is build under the rstforum.",
     skills: [
       "ReactJS",
       "Redux",
@@ -202,6 +202,11 @@ export const experiences = [
       "CSS",
       "Tailwind",
       "JavaScript",
+      "Postman",
+      "Linode",
+      "Devtools",
+      "MongoDB",
+      "Express",
     ],
   },
 ];
@@ -212,15 +217,17 @@ export const education = [
     img: "https://tse4.mm.bing.net/th?id=OIP.rlRHgliVBDg-guxkPHqWTgHaIM&pid=Api&P=0&h=180",
     school: "Maharshi Dayanand College - Mumbai University",
     date: "June 2019 - May 2022",
-    degree: "Completed my Graduation with 8 CGPA",
+    degree: "Completed my HSC and Graduation with 8 CGPA",
   },
+
   {
     id: 1,
-    img: "https://tse4.mm.bing.net/th?id=OIP.rlRHgliVBDg-guxkPHqWTgHaIM&pid=Api&P=0&h=180",
-    school: "Maharshi Dayanand College - Mumbai",
-    date: "June 2017 - July 2019",
-    degree: "HSC",
+    img: "https://logowik.com/content/uploads/images/niit5286.jpg",
+    school: "NIIT - Mumbai",
+    date: "June 2019 - August 2022",
+    degree: "ANIIT in cloud and Mobile Software Engineering",
   },
+
   {
     id: 2,
     img: "https://images.uniapply.com/uploads/college/image/logo/4694/Sungrace_High_School_And_Junior_College_2415_Logo_1.jpg",
