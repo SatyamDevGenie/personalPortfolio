@@ -216,7 +216,7 @@ export const education = [
     id: 0,
     img: "https://tse4.mm.bing.net/th?id=OIP.rlRHgliVBDg-guxkPHqWTgHaIM&pid=Api&P=0&h=180",
     school: "Maharshi Dayanand College - Mumbai University",
-    date: "June 2019 - May 2022",
+    date: "June 2017 - May 2022",
     degree: "Completed my HSC and Graduation with 8 CGPA",
   },
 
