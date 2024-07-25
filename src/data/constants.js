@@ -322,7 +322,7 @@ export const projects = [
     title: "Note Zipper App",
     date: "Jan 2024 - Feb 2024",
     description:
-      "You can perform crud operation like create note, update note, delete note along with the user authentication using MERN.",
+      "You can perform crud operation like create note, update note, delete note along with the user authentication using MERN. Still working on user update profile section in frontend",
     image: "images/note.png",
     tags: [
       "Nodejs",
