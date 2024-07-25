@@ -243,7 +243,7 @@ export const projects = [
     title: "BlogoSphere",
     date: "May 2024 - June 2024",
     description:
-      "BlogoSphere application build using MERN STACK. User authentication along with create, uodate, delete blog after user logged In. You can also give your comment . review on particular blog. Trending and Latest blogs are also available.",
+      "BlogoSphere application build using MERN STACK. User authentication along with create, uodate, delete blog after user logged In. You can also give your comment . review on particular blog. Trending and Latest blogs are also available. Still working on it to add some more features",
     image: "images/blog.png",
     tags: [
       "React Js",
