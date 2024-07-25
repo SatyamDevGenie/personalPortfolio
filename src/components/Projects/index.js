@@ -61,17 +61,17 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "other" ? (
+          {toggle === "frontend" ? (
             <ToggleButton
               active
-              value="other"
-              onClick={() => setToggle("other")}
+              value="frontend"
+              onClick={() => setToggle("frontend")}
             >
-              Other Technology
+              FRONTEND
             </ToggleButton>
           ) : (
-            <ToggleButton value="other" onClick={() => setToggle("other")}>
-              Other Technology
+            <ToggleButton value="other" onClick={() => setToggle("frontend")}>
+              FRONTEND
             </ToggleButton>
           )}
         </ToggleButtonGroup>

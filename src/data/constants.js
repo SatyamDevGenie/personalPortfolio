@@ -354,16 +354,15 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Rest API - Backend",
-    date: "Nov 2023 - Dec 2023",
+    title: "Entertainment Hub",
+    date: "May 2024 - July 2024",
     description:
-      "It's a backend project, in this we can see crud operations with pure nodejs with middleware. After updating single movie name it automatic update in dummy file without any database connectivity.",
-    image:
-      "https://static.wixstatic.com/media/867b1e_e61b8bbad5f94f448fbb75870136f9f3~mv2.jpg/v1/fit/w_700%2Ch_409%2Cal_c%2Cq_80/file.jpg",
-    tags: ["Nodejs", "HTTP", "UU_ID", "Crud Operations"],
-    category: "backend",
-    github: "https://github.com/satyamsawant54/Movie-Crud-App",
-    webapp: "https://github.com/satyamsawant54/Movie-Crud-App",
+      "Build this entire app using reactjs and movieDB API. Still working on it single movie implementation. Temporary hosted on netlify for free to showcase.",
+    image: "images/entertainment.png",
+    tags: ["Reactjs", "Javascript", "ES6+", "API"],
+    category: "frontend",
+    github: "https://github.com/SatyamDevGenie/Entertainment-Hub",
+    webapp: "https://xflixify.netlify.app/",
   },
   {
     id: 9,
@@ -384,7 +383,7 @@ export const projects = [
       "SQL",
       "JDBC",
     ],
-    category: "other",
+    category: "full stack",
     github: "https://github.com/satyamsawant54/Doctor-Appointment-Application",
     webapp:
       "https://www.linkedin.com/feed/update/urn:li:activity:7151935710655135744?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7151935710655135744%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
