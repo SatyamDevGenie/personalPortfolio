@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/satyamsawant54/Satyam-Readme",
+  github: "https://github.com/SatyamDevGenie",
   resume:
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
     "https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view?usp=sharing",
@@ -360,7 +360,7 @@ export const projects = [
       "Build this entire app using reactjs and movieDB API. Still working on it single movie implementation. Temporary hosted on netlify for free to showcase.",
     image: "images/entertainment.png",
     tags: ["Reactjs", "Javascript", "ES6+", "API"],
-    category: "frontend",
+    category: "other",
     github: "https://github.com/SatyamDevGenie/Entertainment-Hub",
     webapp: "https://xflixify.netlify.app/",
   },
@@ -383,7 +383,7 @@ export const projects = [
       "SQL",
       "JDBC",
     ],
-    category: "full stack",
+    category: "other",
     github: "https://github.com/satyamsawant54/Doctor-Appointment-Application",
     webapp:
       "https://www.linkedin.com/feed/update/urn:li:activity:7151935710655135744?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7151935710655135744%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",

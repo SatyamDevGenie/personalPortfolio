@@ -47,21 +47,21 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "backend" ? (
+          {toggle === "other" ? (
             <ToggleButton
               active
-              value="backend"
-              onClick={() => setToggle("backend")}
+              value="other"
+              onClick={() => setToggle("other")}
             >
-              BACKEND
+              OTHER TECH
             </ToggleButton>
           ) : (
-            <ToggleButton value="web app" onClick={() => setToggle("backend")}>
-              BACKEND
+            <ToggleButton value="web app" onClick={() => setToggle("other")}>
+              OTHER TECH
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "frontend" ? (
+          {/* <Divider /> */}
+          {/* {toggle === "frontend" ? (
             <ToggleButton
               active
               value="frontend"
@@ -73,7 +73,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             <ToggleButton value="other" onClick={() => setToggle("frontend")}>
               FRONTEND
             </ToggleButton>
-          )}
+          )} */}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
