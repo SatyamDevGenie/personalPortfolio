@@ -173,7 +173,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend End Developer",
     company: "Hi-Technic Systems and Services",
-    date: "August 2023 - May 2024",
+    date: "August 2023 - July 2024",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Javascript.",
     skills: [
       "ReactJS",
