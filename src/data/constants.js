@@ -267,7 +267,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "BlogoSphere",
     date: "May 2024 - June 2024",
     description:
@@ -289,42 +289,7 @@ export const projects = [
     webapp:
       "https://drive.google.com/file/d/1ZqZvI8WuJCtXXg8aG1LYRuevLINlqtoS/view?usp=drive_link",
   },
-  {
-    id: 0,
-    title: "Socket IO - Chat App",
-    date: "June 24 - Present",
-    description:
-      "I just completed frontend part of user credentails using daisy UI and Tailwind. After that i will use redux toolkit for rendering data from store to components. Backend is done for all the functionalities using nodejs, express.js, mongodb.",
-    image: "images/socket.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux Toolkit",
-      "Socket IO",
-      "Tailwind",
-      "Daisy UI",
-    ],
-    category: "full stack",
-    github: "https://github.com/satyamsawant54/Chat-App",
-    webapp:
-      "https://drive.google.com/file/d/1PCAQaxUeRXYI_W3WhlVEdBuP99lcSYqN/view?usp=drive_link",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
-  },
+
   {
     id: 1,
     title: "Ecommerce Application",
@@ -364,7 +329,7 @@ export const projects = [
     category: "full stack",
     github: "https://github.com/satyamsawant54/Note-Zipper-App",
     webapp:
-      "https://drive.google.com/file/d/1sJW7O0n_IWZ9Il1UizXelmRx7_jejVK_/view?usp=drive_link",
+      "https://drive.google.com/file/d/1BmMgN9ywKzCdAPbul5ZTkgso-S92RsJR/view?usp=drive_link",
     // member: [
     //   {
     //     name: "Rishav Chanda",
