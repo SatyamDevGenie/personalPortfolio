@@ -171,9 +171,9 @@ export const experiences = [
   {
     id: 1,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Freelance Web Developer",
-    company: "Self Employed",
-    date: "Jan 2023 - Present",
+    role: "Mern Stack Developer",
+    company: "Freelancer",
+    date: "Sept 2024 - Present",
     desc: "Experienced freelance web developer specializing in MERN stack technologies. Over the past year, I've successfully delivered responsive and dynamic web applications for various clients, focusing on quality and client satisfaction.",
     skills: [
       "ReactJS",
@@ -189,16 +189,18 @@ export const experiences = [
       "Devtools",
       "MongoDB",
       "Express",
+      "Nextjs",
+      "TypeScript",
     ],
   },
 
   {
     id: 1,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend End Developer",
+    role: "Web Developer",
     company: "Hi-Technic Systems and Services",
-    date: "August 2023 - July 2024",
-    desc: "Experienced Frontend Developer skilled in React, Redux, and JavaScript, with a strong track record of building dynamic and responsive web applications. Proficient in creating user-friendly interfaces and implementing efficient state management.",
+    date: "August 2023 - August 2024",
+    desc: "Experienced Web Developer skilled in React, Redux, and JavaScript, Nodejs, Express with a strong track record of building dynamic and responsive web applications. Proficient in creating user-friendly interfaces and implementing efficient state management.",
     skills: [
       "ReactJS",
       "Redux",
@@ -207,15 +209,17 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
+      "MongoDB",
+      "Express",
     ],
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
     id: 2,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Full Stack Training",
+    role: "Full Stack Developer",
     company: "Rst Forum",
-    date: "Feb 2023 - June 2023",
+    date: "Feb 2023 - July 2023",
     desc: "Full Stack Training, where i build and work on ecommerce application. The entire web application is build under the rstforum. Completed an intensive 5-month training program focused on the MERN stack (MongoDB, Express.js, React.js, Node.js). Acquired hands-on experience in building dynamic, responsive ecommerce web applications from front-end to back-end.",
     skills: [
       "ReactJS",
@@ -410,7 +414,7 @@ export const projects = [
     category: "other",
     github: "https://github.com/satyamsawant54/Doctor-Appointment-Application",
     webapp:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7151935710655135744?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7151935710655135744%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+      "https://drive.google.com/file/d/1uFVBQNXldc3xfcVryZl8sXwn1T7SlEqz/view?usp=drive_link",
   },
 ];
 
