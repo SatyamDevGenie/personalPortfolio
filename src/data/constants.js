@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/SatyamDevGenie",
   resume:
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    "https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view?usp=sharing",
+    "https://drive.google.com/file/d/1m8gJOaOcx_Jqbwmkz5BrNSExYZPM6H4S/view",
   linkedin: "https://www.linkedin.com/in/satyam-sawant-a257802a7/",
 };
 
