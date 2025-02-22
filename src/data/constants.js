@@ -2,19 +2,18 @@ export const Bio = {
   name: "Satyam Sawant",
   roles: [
     "Web Stack Developer",
-    "Mern Stack Developer",
+    "MERN Stack Developer",
     "Freelancer",
-    "Javascript Programmer",
+    "JavaScript Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SatyamDevGenie",
   resume:
-    // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    // "https://drive.google.com/file/d/1Ispj5RvIOyfNgsE08i9NMMcOA7js_4Sj/view?usp=sharing",
-    "https://drive.google.com/file/d/1a-ybFZigStA2Ls-tufqfWvNjIV3BWGqP/view?usp=sharing",
+    "https://drive.google.com/uc?export=view&id=1IKX0abVbV2cA0XJUscm_qLAL4HYzF5na",
   linkedin: "https://www.linkedin.com/in/satyam-sawant-a257802a7/",
 };
+
 
 export const skills = [
   {
@@ -198,9 +197,9 @@ export const experiences = [
   {
     id: 1,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Developer - Part Time",
+    role: "Web Developer - Full Time Time",
     company: "Hi-Technic Systems and Services",
-    date: "February 2023 - September 2024",
+    date: "15 Sept 2023 - 17 March 2025",
     desc: "Experienced Web Developer skilled in React, Redux, and JavaScript, Nodejs, Express with a strong track record of building dynamic and responsive web applications. Proficient in creating user-friendly interfaces and implementing efficient state management.",
     skills: [
       "ReactJS",
