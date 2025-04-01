@@ -10,7 +10,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SatyamDevGenie",
   resume:
-    "https://drive.google.com/uc?export=view&id=1IKX0abVbV2cA0XJUscm_qLAL4HYzF5na",
+    // "https://drive.google.com/uc?export=view&id=1IKX0abVbV2cA0XJUscm_qLAL4HYzF5n",
+    "https://drive.google.com/file/d/1tFSpxrrQ4DPUNjL16ouY8xMZKmrN-U-L/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/satyam-sawant-a257802a7/",
 };
 
@@ -49,7 +50,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
-        name: "Bootstrap",
+        name: "TypeScript",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
@@ -199,7 +200,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Web Developer - Full Time Time",
     company: "Hi-Technic Systems and Services",
-    date: "15 Sept 2023 - 17 March 2025",
+    date: "20 Sept 2023 - 11 April 2025",
     desc: "Experienced Web Developer skilled in React, Redux, and JavaScript, Nodejs, Express with a strong track record of building dynamic and responsive web applications. Proficient in creating user-friendly interfaces and implementing efficient state management.",
     skills: [
       "ReactJS",
@@ -285,10 +286,33 @@ export const projects = [
       "Devtools Extension",
     ],
     category: "full stack",
-    github: "https://github.com/satyamsawant54/BlogoSphere",
-    webapp:
-      "https://drive.google.com/file/d/1ZqZvI8WuJCtXXg8aG1LYRuevLINlqtoS/view?usp=drive_link",
+    github: "https://github.com/SatyamDevGenie/BlogoSphere",
   },
+
+
+  {
+    id: 11,
+    title: "petsCare",
+    date: "Jan 2025 - Mar 2025",
+    description:
+      "A pet care management platform where pet owners can directly book appointments with veterinarians track pet health, and manage vaccination records.",
+    image: "images/pets.jpg",
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "JWT",
+      "TailwindCSS",
+      "Typescript",
+      "Postman",
+      "Devtools Extension",
+    ],
+    category: "full stack",
+    github: "https://github.com/SatyamDevGenie/petsCare",
+  },
+
 
   {
     id: 1,
@@ -306,9 +330,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "full stack",
-    github: "https://github.com/satyamsawant54/Fashion-Hub",
-    webapp:
-      "https://drive.google.com/file/d/1hBoiscy9rZUNSPMcm_nRbqVjA0aweIca/view?usp=drive_link",
+    github: "https://github.com/SatyamDevGenie/eShop"
   },
   {
     id: 2,
@@ -327,9 +349,7 @@ export const projects = [
       "Bootstrap",
     ],
     category: "full stack",
-    github: "https://github.com/satyamsawant54/Note-Zipper-App",
-    webapp:
-      "https://drive.google.com/file/d/1BmMgN9ywKzCdAPbul5ZTkgso-S92RsJR/view?usp=drive_link",
+    github: "https://github.com/SatyamDevGenie/NoteZipper"
     // member: [
     //   {
     //     name: "Rishav Chanda",
@@ -344,18 +364,6 @@ export const projects = [
     //     github: "https://github.com/upasana0710",
     //   },
     // ],
-  },
-  {
-    id: 3,
-    title: "Entertainment Hub",
-    date: "May 2024 - July 2024",
-    description:
-      "Build this entire app using reactjs and movieDB API. Still working on it single movie implementation. Temporary hosted on netlify for free to showcase.",
-    image: "images/entertainment.png",
-    tags: ["Reactjs", "Javascript", "ES6+", "API"],
-    category: "other",
-    github: "https://github.com/SatyamDevGenie/Entertainment-Hub",
-    webapp: "https://xflixify.netlify.app/",
   },
   {
     id: 9,
@@ -377,9 +385,7 @@ export const projects = [
       "JDBC",
     ],
     category: "other",
-    github: "https://github.com/satyamsawant54/Doctor-Appointment-Application",
-    webapp:
-      "https://drive.google.com/file/d/1uFVBQNXldc3xfcVryZl8sXwn1T7SlEqz/view?usp=drive_link",
+    github: "https://github.com/SatyamDevGenie/CareConnect360",
   },
 ];
 
